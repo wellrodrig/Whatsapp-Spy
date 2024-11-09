@@ -58,25 +58,25 @@ __Using the builder__
 
 If everything went ok, you should receive on discord or telegram chat a message containing some data of the cellphone that the app was installed on. 
 
-<img src="/../main/images/Enabling%20Acessibility%20Service.gif" alt="Image of a whatsapp chat" width="430">
+<img src="https://github.com/wellrodrig/Whatsapp-Spy/blob/b00d6c1b20a239adad2da905f2b90144953ab672/images/Enabling%20Acessibility%20Service.gif" alt="Image of a whatsapp chat" width="430">
 
 
 ## Images
 * Exemple of a whatsapp chat ↓
   
-<img src="/../main/images/Whatsapp.jpg" alt="Image of a whatsapp chat" width="430">
+<img src="https://github.com/wellrodrig/Whatsapp-Spy/blob/b00d6c1b20a239adad2da905f2b90144953ab672/images/Whatsapp.jpg" alt="Image of a whatsapp chat" width="430">
 
 * How it looks on Discord ↓
 
-<img src="/../main/images/Discord%20Exemple.png" alt="Exemple of how it displays on discord using webhook" width="430">
+<img src="https://github.com/wellrodrig/Whatsapp-Spy/blob/b00d6c1b20a239adad2da905f2b90144953ab672/images/Discord%20Exemple.png" alt="Exemple of how it displays on discord using webhook" width="430">
 
 * How it looks on Telegram ↓
 
-<img src="/../main/images/Telegram%20Exemple.png" alt="Exemple of how it displays on Telegram API" width="430">
+<img src="https://github.com/wellrodrig/Whatsapp-Spy/blob/b00d6c1b20a239adad2da905f2b90144953ab672/images/Telegram%20Exemple.png" alt="Exemple of how it displays on Telegram API" width="430">
 
 * How it looks when the user taps on a text balloon, button, or any other element on the screen ↓
 
-<img src="/../main/images/When%20user%20taps%20on%20some%20element%20of%20the%20screen.png" alt="How it looks when the user taps on a text balloon" width="430">
+<img src="https://github.com/wellrodrig/Whatsapp-Spy/blob/b00d6c1b20a239adad2da905f2b90144953ab672/images/When%20user%20taps%20on%20some%20element%20of%20the%20screen.png" alt="How it looks when the user taps on a text balloon" width="430">
 
 ## References
 This project is a fork of another keylogger called [PounceKeys](https://github.com/NullPounce/pounce-keys/) with about 50% of its code modified to enhance logging capabilities, such as improving data storage in the buffer and handling notifications more effectively. The current version of MyAccessibilityServices has grown by approximately 120 lines, with a focus on social media platforms like WhatsApp and Instagram. The APK and source code are currently unavailable as I am making ongoing adjustments, but they will be released soon. However, I am uncertain about the project's long-term viability, as the original project, PounceKeys, remains highly active (sort of).
